@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is created in purpose to practice flutter slicing UI
 
-A few resources to get you started if this is your first Flutter project:
+## Figma 
+https://www.figma.com/file/czNdXKlh7iyrv4JkeMEuaN/Healthypet-%7C-%40softwareseni---Youtube-(Community)?type=design&node-id=0-6&mode=design&t=s3q5Flda2UBTqtPV-0
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
